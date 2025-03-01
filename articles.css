@@ -1,0 +1,49 @@
+.articles-bg-container{
+    background-color: #225db0;
+    padding: 20px;
+    text-align: center;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 10px;
+    font-family: Roboto;
+    color: white;
+    
+}
+.paragraph{
+    color: white;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.articles-card{
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 20px;
+    height: 30vh;
+    width: 20vw;
+}
+.sub-para{
+    font-size: 24px;
+    font-weight: lighter;
+    font-family: Roboto;
+}
+.sub-heading{
+    color: white;
+    font-family: Roboto;
+    font-size: 36px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.list-style{
+    list-style-type:square;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    margin-left: 50px;
+    text-align: left;
+}
